@@ -4,7 +4,7 @@ Este é um projeto com customizações do [abnTeX2](http://abnTeX2.googlecode.co
 
 A biblioteca [abnTeX2](http://abnTeX2.googlecode.com) já atende os padrões exigidos pela UnB! Esta biblioteca adiciona informações opcionais ao documento.
 
-<small>Atenção! Este não é um projeto oficial da Universidade de Brasília - UnB. O nome dessa instituição é utilizado apenas para indicar que o padrão dos arquivos gerados com a biblioteca abntex2 em conjunto com essa customização estarão de acordo com as suas normas.</small>
+<sub>Atenção! Este não é um projeto oficial da Universidade de Brasília - UnB. O nome dessa instituição é utilizado apenas para indicar que o padrão dos arquivos gerados com a biblioteca abnTeX2 em conjunto com essa customização estarão de acordo com as suas normas.</sub>
 
 ## Como usar
 
