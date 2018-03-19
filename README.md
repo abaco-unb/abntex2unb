@@ -1,10 +1,10 @@
 # abntex2unb
 
-Este é um projeto com customizações do [abnTeX2](http://abnTeX2.googlecode.com) para trabalhos acadêmicos da Universidade de Brasília.
+Este é um projeto com customizações do [abnTeX2] para trabalhos acadêmicos da Universidade de Brasília.
 
-A biblioteca [abnTeX2](http://abnTeX2.googlecode.com) já atende os padrões exigidos pela UnB! Esta biblioteca adiciona informações opcionais ao documento.
+A biblioteca [abnTeX2] já atende aos padrões exigidos pela UnB! Esta biblioteca adiciona informações opcionais ao documento.
 
-<sub>Atenção! Este não é um projeto oficial da Universidade de Brasília - UnB. O nome dessa instituição é utilizado apenas para indicar que o padrão dos arquivos gerados com a biblioteca abnTeX2 em conjunto com essa customização estarão de acordo com as suas normas.</sub>
+Este **não** é um projeto oficial da Universidade de Brasília - UnB. O nome dessa instituição é utilizado apenas para indicar que o padrão dos arquivos gerados com a biblioteca abnTeX2 em conjunto com essa customização estará de acordo normas dessa instituição.
 
 ## Como usar
 
@@ -48,3 +48,5 @@ Capa                      | Folha de Rosto
 
 - http://www.bce.unb.br/normas-bibliograficas/
 - http://www.marca.unb.br
+
+[abnTeX2]: http://www.abntex.net.br/
